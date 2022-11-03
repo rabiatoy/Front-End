@@ -38,10 +38,6 @@
             <h2>JAVASCRIPT</h2>
             <img src="https://www.setxrm.com/wp-content/uploads/2019/11/Javascript-programming-language.jpg" height="200" alt="Yazı 3">
             <p>JavaScript, HTML ve CSS ile birlikte World Wide Web'in temel teknolojilerinden biri olan programlama dilidir. Web sitelerinin %97'sinden fazlası, web sayfası hareketleri için istemci tarafında JavaScript kullanırlar ve kullanılan kodlar genellikle üçüncü taraf kitaplıkları içerir.</p>
-            <ul>
-                <li>js</li>
-                <li>js</li>
-            </ul>
             <hr>
         </article>
         <!-- Articles - End -->
