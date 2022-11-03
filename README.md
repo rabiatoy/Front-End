@@ -47,9 +47,8 @@
         <!-- Articles - End -->
     </section>
     <!-- Content - End -->
-
     <!-- Footer - Start -->
-    <footer>
+     <footer>
         <nav>
             <a href="index.html">Ana Sayfa</a> |
             <a href="about-us.html">Hakkımızda</a> |
